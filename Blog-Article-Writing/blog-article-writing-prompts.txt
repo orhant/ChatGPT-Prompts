@@ -85,8 +85,8 @@ Do not self reference.
 Do not explain what you are doing.
 
 Requirements:
-Tone of Voice: Professional
-Writing Style: Academic
+Tone of Voice: Informal
+Writing Style: Informative
 Language: English
 
 Instructions:
@@ -97,7 +97,9 @@ expand on each of the subheadings to create a complete article from it.
 Use short and long sentences. 
 Utilize uncommon terminology to enhance the originality of the content. 
 Use professional format for the content. 
-Use appropriate font size for headings and sub headings.
+Use appropriate font size for headings and sub headings.  
+Include quotes from professionals between the paragraphs, format them as blockquotes, and provide proper citations for the sources.
+Add a few popular links at the end of the page
 
 ....................................................................
 - Generate Complete Blog Post from a Given Topic using Single Prompt
