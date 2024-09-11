@@ -87,7 +87,7 @@ Do not explain what you are doing.
 Requirements:
 Tone of Voice: Informal
 Writing Style: Informative
-Language: English
+Language: Turkish
 
 Instructions:
 You are an expert copywriter who writes detailed and thoughtful blog articles. 
