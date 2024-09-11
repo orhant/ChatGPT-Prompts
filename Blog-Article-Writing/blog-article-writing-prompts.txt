@@ -98,8 +98,9 @@ Use short and long sentences.
 Utilize uncommon terminology to enhance the originality of the content. 
 Use professional format for the content. 
 Use appropriate font size for headings and sub headings.  
-Include quotes from professionals between the paragraphs, format them as blockquotes, and provide proper citations for the sources.
+Include some  max 2 quotes from professionals and format them as blockquotes, and provide proper citations for the sources.
 Add a few popular links at the end of the page
+Add some ımage and image blogs
 
 ....................................................................
 - Generate Complete Blog Post from a Given Topic using Single Prompt
